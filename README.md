@@ -8,6 +8,14 @@ When a fault is detected, the system triggers alerts and follows a structured de
 
 The project is implemented using **ESP32** and simulated on the **Wokwi platform**.
 
+## Simulation
+
+This project is fully tested using Wokwi virtual simulation environment.
+
+**Wokwi Simulation Link:**  
+(https://wokwi.com/projects/458388798923858945)
+
+
 ---
 
 ## Objective
@@ -65,16 +73,6 @@ The main objective is to design an embedded safety system that can:
 - Arduino IDE  
 - ESP32 Arduino Core  
 - Wokwi Online Simulator  
-
----
-
-## Simulation
-
-This project is fully tested using Wokwi virtual simulation environment.
-
-**Wokwi Simulation Link:**  
-(https://wokwi.com/projects/458388798923858945)
-
 
 ---
 
